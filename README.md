@@ -1,44 +1,60 @@
-# 📌 Sprint 2 -- JavaScript I
+# 📌 Release 2.1 -- Basic JavaScript Exercises
 
-Welcome to the **Sprint 2 JavaScript I** repository!
+This branch contains a complete collection of **basic JavaScript
+exercises**, organized by levels and designed to practice the
+fundamental concepts of the language.
 
-This repository contains several branches with exercises and small
-projects designed to practice and consolidate your JavaScript skills.
+It includes exercises on:
+
+-   Arrow Functions\
+-   Ternary Operator\
+-   Callbacks\
+-   Rest & Spread Operators\
+-   Array Transformations (map, filter, reduce, find)\
+-   Array Loops\
+-   Promises and Async/Await
+
+Each exercise is solved, commented, and **prints its result directly to
+the console** for easy verification.
+
+------------------------------------------------------------------------
+
+## ✔️ Purpose of this Branch
+
+This release gathers all the essential beginner-level JavaScript
+exercises to help solidify the foundations of the language before moving
+on to more advanced projects.
+
+It includes practical examples, real functions, and multiple cases
+applied to common programming scenarios.
 
 ------------------------------------------------------------------------
 
-## 🗂️ Branch Overview
+## 🛠️ How to Clone This Branch
 
-| Branch | Description |
-|--------|-------------|
-| **main** | The stable branch with this README. No code is added here. |
-| **develop** | Active development branch. No README included. |
-| **release/2.1_basic_js_exercises** | Contains all **basic JavaScript exercises**, including arrow functions, ternary operators, callbacks, rest & spread operators, array transformations, loops, and promises. Each exercise prints its result to the console for verification. |
-| **release/2.2_e-comerce** | Contains a **small e-commerce simulation project**. Users can interact with products and complete a form. Final results can be verified with a `console.log` after checkout. A live demo is also available: https://juangodoygrando.github.io/Sprint2_JavaScript_I/ |
+You can clone this release by following these steps:
+
+### 🔹 1. Clone the entire repository
+
+``` sh
+git clone https://github.com/juangodoygrando/Sprint2_JS_Basics_2.1.git
+```
+
+### 🔹 2. Navigate into the repository
+
+``` sh
+cd Sprint2_JS_Basics_2.1
+```
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Explore This Repository
+## ▶️ How to Run the Code
 
-1.  Clone the repository:
+No special setup is required.\
+You can execute the code in any of the following ways:
 
-``` sh
-git clone https://github.com/juangodoygrando/Sprint2_JavaScript_I.git
-```
-
-2.  Navigate into the repository:
-
-``` sh
-cd Sprint2_JavaScript_I
-```
-
-3.  Switch to the branch you want to explore:
-
-``` sh
-git checkout <branch_name>
-```
-
-Replace `<branch_name>` with your branch of choice
-(e.g. `release/2.1_basic_js_exercises`).
-
-------------------------------------------------------------------------
+-   Open the `.js` file in **Visual Studio Code** and run it with
+    **Node.js**\
+-   Open the project using **Live Server** together with a simple HTML
+    file\
+-   Run the code directly from the **browser console**
