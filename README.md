@@ -1,60 +1,60 @@
-# 📌 Release 2.2 – E-Commerce Exercise
+# 📌 Release 2.1 -- Basic JavaScript Exercises
 
-This branch contains a small **E-Commerce simulation project**, designed to practice intermediate JavaScript concepts such as data handling, DOM interaction (if applicable), object structures, and basic business logic.
+This branch contains a complete collection of **basic JavaScript
+exercises**, organized by levels and designed to practice the
+fundamental concepts of the language.
 
-All fields and final results can be verified using the **console.log** output located at the end of the main file, allowing you to see all processed data clearly after a successful checkout, including product information in the cart and completed form details.
+It includes exercises on:
+
+-   Arrow Functions\
+-   Ternary Operator\
+-   Callbacks\
+-   Rest & Spread Operators\
+-   Array Transformations (map, filter, reduce, find)\
+-   Array Loops\
+-   Promises and Async/Await
+
+Each exercise is solved, commented, and **prints its result directly to
+the console** for easy verification.
 
 ------------------------------------------------------------------------
 
 ## ✔️ Purpose of this Branch
 
-The goal of this release is to practice how an e-commerce workflow operates internally, including:
+This release gathers all the essential beginner-level JavaScript
+exercises to help solidify the foundations of the language before moving
+on to more advanced projects.
 
-- Creating and managing product objects  
-- Handling prices, quantities, and cart operations  
-- Processing totals and user information  
-- Displaying results through structured console output after checkout  
-
-This exercise prepares you for more advanced projects involving full UI manipulation, APIs, and complex data flows.
+It includes practical examples, real functions, and multiple cases
+applied to common programming scenarios.
 
 ------------------------------------------------------------------------
 
 ## 🛠️ How to Clone This Branch
 
-You can clone and access this release by following these steps:
+You can clone this release by following these steps:
 
 ### 🔹 1. Clone the entire repository
-```sh
-git clone https://github.com/juangodoygrando/Sprint2_JavaScript_I.git
+
+``` sh
+git clone https://github.com/juangodoygrando/Sprint2_JS_Basics_2.1.git
 ```
 
 ### 🔹 2. Navigate into the repository
-```sh
-cd Sprint2_JavaScript_I
-```
 
-### 🔹 3. Switch to the branch *release/2.2_e-comerce*
-```sh
-git checkout "release/2.2_e-comerce"
+``` sh
+cd Sprint2_JS_Basics_2.1
 ```
 
 ------------------------------------------------------------------------
 
 ## ▶️ How to Run the Code
 
-No special installation is required.  
-You can run the project in any of the following ways:
+No special setup is required.\
+You can execute the code in any of the following ways:
 
-- Open the project with **Live Server**  
-- Run the script through the **browser console**  
-- Open the `.js` file in **Visual Studio Code** and execute it with **Node.js** (if desired)
-
-All processed data and final outputs will be displayed through the **console.log** at the end of the script, showing the complete information of products in the cart and form details after a successful checkout.
-
-------------------------------------------------------------------------
-
-## 🔗 Live Demo
-
-You can test and preview the project directly here:
-
-👉 **https://juangodoygrando.github.io/Sprint2_JavaScript_I/**
+-   Open the `.js` file in **Visual Studio Code** and run it with
+    **Node.js**\
+-   Open the project using **Live Server** together with a simple HTML
+    file\
+-   Run the code directly from the **browser console**
